@@ -1,0 +1,15 @@
+.course-style{
+  /* border: 1px solid gray; */
+  margin-bottom: 10px;
+  box-shadow: 5px 5px 10px gray;
+  border-radius: 5px;
+  padding: 10px;
+}
+.main-btn{
+  width: 150px;
+  height: 30px;
+  border: 1px solid gray;
+  background-color: goldenrod;
+  font-weight: 700;
+  cursor: pointer;
+}
